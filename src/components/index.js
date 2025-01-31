@@ -1,0 +1,11 @@
+export { default as Navbar } from './Navbar';
+export { default as Hero } from './Hero';
+export { default as About } from './About.jsx';
+export { default as Services } from './Services.jsx';
+export { default as Tours } from './Tours.jsx';
+export { default as Footer } from './Footer.jsx';
+export { default as Title } from './Title.jsx';
+export { default as Service } from './Service.jsx';
+export { default as Tour } from './Tour.jsx';
+export { default as SocialLink } from './SocialLink.jsx';
+export { default as PageLinks } from './PageLinks.jsx';
