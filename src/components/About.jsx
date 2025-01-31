@@ -33,7 +33,7 @@ export default function About() {
 						dolor?
 					</p>
 					<a
-						href='#about'
+						href='#'
 						className='btn'
 					>
 						read more
